@@ -1,4 +1,4 @@
-### Hey,Lecho<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey,Hi, I'm Simon, my nickname among my friends is Lecho, I like both names <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## My Skills Include
 

@@ -1,7 +1,7 @@
 ### Hey,Hi, I'm Simon, my nickname among my friends is Lecho, I like both names <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" />
 
-<img src="https://i.pinimg.com/originals/6a/6d/0f/6a6d0f1118a5cdc9db52529bdedada9d.gif" width="50px">&nbsp;***About me***
+***About me***<img src="https://i.pinimg.com/originals/6a/6d/0f/6a6d0f1118a5cdc9db52529bdedada9d.gif" width="50px">&nbsp;
 
 ## My Skills Include
 

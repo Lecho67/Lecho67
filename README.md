@@ -1,7 +1,8 @@
 ### Hey,I'm Simon, my nickname among my friends is Lecho, I like both names <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" />
 
-***About me*** <img src="https://i.pinimg.com/originals/13/c5/4e/13c54ecbbf135990786874919f6726fb.gif" width="30px" padding="30px">&nbsp;
+***About me*** <img src="https://i.pinimg.com/originals/13/c5/4e/13c54ecbbf135990786874919f6726fb.gif" width="30px">&nbsp;
+
 I'm a Computer Engineering student. I love learning new things. I'm expanding my knowledge in front-end and back-end development, although I prefer back-end development. I'm excited to learn new things about life, especially the technological and innovative aspects.
 
 ## My Skills Include

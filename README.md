@@ -4,7 +4,7 @@
 
 ***About me*** <img src="https://i.pinimg.com/originals/13/c5/4e/13c54ecbbf135990786874919f6726fb.gif" width="30px">&nbsp;
 
-Ingeniero Informático y desarrollador frontend.
+Ingeniero Informático.
 
 ## 🚀 En lo que estoy trabajando
 

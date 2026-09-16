@@ -9,7 +9,7 @@ Ingeniero Informático.
 ## 🚀 En lo que estoy trabajando
 
 - **[BorderCheck-AI_Frontend](https://github.com/Lecho67/BorderCheck-AI_Frontend)** — Plataforma de cumplimiento aduanero, frontend en React + TypeScript.
-- **[ExpedienteVivo](https://github.com/Lecho67/ExpedienteVivo)** — Proyecto de portafolio: gestión de casos con event sourcing, concurrencia optimista y RBAC granular.
+- **[ExpedienteVivo](https://github.com/Lecho67/ExpedienteVivo)** — Gestión de casos con event sourcing, concurrencia optimista y RBAC granular.
 
 ## 🛠️ My Skills Include
 

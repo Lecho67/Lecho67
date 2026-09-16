@@ -3,8 +3,7 @@
 
 ***About me*** <img src="https://i.pinimg.com/originals/13/c5/4e/13c54ecbbf135990786874919f6726fb.gif" width="30px">&nbsp;
 
-Ingeniero Informático y desarrollador frontend, cursando una Maestría enfocada en Machine Learning, Visión por Computador, Deep Learning secuencial y Visualización de Datos. Construyo interfaces con React/TypeScript en proyectos de software colaborativos, mientras profundizo en backend y ciencia de datos a través de la maestría.
-
+Ingeniero Informático y desarrollador frontend.
 ## 🚀 En lo que estoy trabajando
 
 - **[BorderCheck-AI_Frontend](https://github.com/Lecho67/BorderCheck-AI_Frontend)** — Plataforma de cumplimiento aduanero, frontend en React + TypeScript.

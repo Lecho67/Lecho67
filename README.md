@@ -1,9 +1,12 @@
 ### Hey, I'm Simon, my nickname among my friends is Lecho, I like both names <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" />
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+-+React+%26+TypeScript;Estudiante+de+Maestria+-+Machine+Learning;Explorando+Vision+por+Computador+y+Deep+Learning;Construyendo+interfaces+con+calidad" alt="Typing SVG" />
+
 ***About me*** <img src="https://i.pinimg.com/originals/13/c5/4e/13c54ecbbf135990786874919f6726fb.gif" width="30px">&nbsp;
 
 Ingeniero Informático y desarrollador frontend.
+
 ## 🚀 En lo que estoy trabajando
 
 - **[BorderCheck-AI_Frontend](https://github.com/Lecho67/BorderCheck-AI_Frontend)** — Plataforma de cumplimiento aduanero, frontend en React + TypeScript.
@@ -32,7 +35,38 @@ Ingeniero Informático y desarrollador frontend.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </span>
 
+## 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lecho67&theme=onedark&no-frame=true&row=1&column=6" /></a>
+</p>
+
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lecho67&show_icons=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Lecho67" width="49%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lecho67" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lecho67" width="49%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lecho67" width="70%" />
+</p>
+
+## 🐍 Mi actividad de contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lecho67/Lecho67/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lecho67/Lecho67/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lecho67/Lecho67/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!--
+## 📫 Contáctame
+<p>
+  <a href="https://linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lecho67&style=flat-square&color=2E9EF7&label=Perfil+visitado" />
+</p>

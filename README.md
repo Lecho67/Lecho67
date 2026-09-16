@@ -1,7 +1,6 @@
 ### Hey, I'm Simon, my nickname among my friends is Lecho, I like both names <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+-+React+%26+TypeScript;Estudiante+de+Maestria+-+Machine+Learning;Explorando+Vision+por+Computador+y+Deep+Learning;Construyendo+interfaces+con+calidad" alt="Typing SVG" />
 
 ***About me*** <img src="https://i.pinimg.com/originals/13/c5/4e/13c54ecbbf135990786874919f6726fb.gif" width="30px">&nbsp;
 
